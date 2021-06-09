@@ -8,7 +8,7 @@ subtitle: ...there was a sprout
 # tags: [books, test]
 ---
 
-# Endothelial cells forming vessel-like structures in a culture dish
+Endothelial cells form vessel-like structures in a culture dish!
 
-![Image of a spheroid sprout](/assets/img/June_2021.TIF)
+![Image of a spheroid sprout](/assets/img/June_2021.png)
 

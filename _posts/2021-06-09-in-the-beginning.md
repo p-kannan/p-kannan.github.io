@@ -3,8 +3,8 @@ layout: post
 title: In the beginning
 subtitle: ...there was a sprout
 # cover-img: /assets/img/pone.0153692.g005.PNG_L.png
-# thumbnail-img: /assets/img/thumb.png
-# share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/2021_june_thumb.png
+#share-img: /assets/img/path.jpg
 # tags: [books, test]
 ---
 

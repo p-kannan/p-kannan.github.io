@@ -8,7 +8,10 @@ subtitle: ...there was a sprout
 # tags: [books, test]
 ---
 
-Endothelial cells form vessel-like structures in a culture dish!
+## Endothelial cells form mini blood vessels in a cell culture dish!
 
-![Image of a spheroid sprout](/assets/img/June_2021.png)
+How does this happen?
 
+![Image of a spheroid sprout](/assets/img/2021_june.png)
+
+In this part of the project, I am imaging the sprouting behavior of endothelial cells, which are the cells that make up the walls of blood vessels. During sprouting, a single cell protrudes out from the existing vessel and forms a new branch, like a bifurcation of a tree. This process can be seen in a cell culture dish simply by embedding a cluster of endothelial cells in a gel, adding some growth factors to promote branch formation, and waiting. And voila, mini blood vessels!

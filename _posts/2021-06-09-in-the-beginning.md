@@ -1,14 +1,14 @@
 ---
 layout: post
 title: In the beginning
-subtitle: ...there was light
-cover-img: /assets/img/pone.0153692.g005.PNG_L.png
+subtitle: ...there was a sprout
+# cover-img: /assets/img/pone.0153692.g005.PNG_L.png
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
 # tags: [books, test]
 ---
 
-# Here's an example image 
+# Endothelial cells forming vessel-like structures in a culture dish
 
-![Image of a spheroid](/assets/img/pone.0153692.g005.PNG_L.png)
+![Image of a spheroid sprout](/assets/img/June_2021.TIF)
 

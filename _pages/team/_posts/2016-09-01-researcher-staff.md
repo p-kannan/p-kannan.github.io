@@ -1,9 +1,9 @@
 ---
 layout: member
 category: staff
-title: Researcher Name
+title: Sania Kheder
 image: researcher.png
-role: Lab Director
+role: Research Assistant
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/

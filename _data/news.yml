@@ -1,22 +1,22 @@
 - date: June 2021
-  title: In the beginning ... there war a sprout
+  title: In the beginning ... there was a sprout
   tags:
     - msca
   image: /images/news/2021_june_thumb.png
   image_alt: Image of a spheroid sprout
+  subtitle: Growing mini blood vessels in a cell culture dish
   content: >
-    Growing mini blood vessels in a cell culture dish |
     In this part of the project, I am imaging the sprouting behavior of endothelial cells, which are the cells that make up the walls of blood vessels. During sprouting, a single cell protrudes out from the existing vessel and forms a new branch, like a bifurcation of a tree. This process can be seen in a cell culture dish simply by embedding a cluster of endothelial cells in a gel, adding some growth factors to promote branching, aaaaand waiting. Voila, mini blood vessels!
 
 - date: August 2021
   title: Laser tag ... with cancer cells!
+  subtitle: Making cancer cells fluorescent
   tags:
     - msca
   image: /images/news/2021_aug_thumb.png
   image_alt: Fluorescent cancer cells
-  content: >
-    Making cancer cells fluorescent |
 
+  content: >
     Imagine you are playing laser tag in the dark and you want to find your teammate. What do you look for? A fluorescent vest or some light to indicate where your teammate is, right?
 
     In cancer biology, we can do the same thing to track cancer cells in a petri dish! Let's say we want to study the effect of a gene in cancer cells. To do this, we can insert bits of genetic code into the cancer cell that tells them to produce our gene of interest AND a fluroescent marker. Any cell that incorporates the added bits of genetic code into their DNA also becomes "tagged" with the fluorescent marker, which allows to track only the cancer cells that have our gene of interest. Amazing? I think so!
@@ -25,13 +25,12 @@
 
 - date: August 2021
   title: Vessel skeletons ... huh?
+  subtitle: Measuring the length of blood vessels in a dish
   tags:
     - msca
   image: /images/news/2022_01_jan_thumb.png
   image_alt: Skeletons of blood vessels?
   content: >
-    Measuring the length of blood vessels in a dish |
-
     You're probably wondering what I'm talking about right now. Maybe you remember that I'm trying to grow mini blood vessels in a dish and that I'm trying to use this method to figure out how cancer cells change the blood vessels? If you didn't remember, well now, you are hopefully all caught up.
 
     I now need a way to measure the little branches coming out of each blood vessel blob. But how exactly is that done? I've been writing a computer algorithm that can identify these branches automatically, tell me how long all the branches are, and how many there are. This algorithm uses a technique called "skeletonization", which is a process where we take all the pixels of the image and reduce them down to a single line of pixels that represent the general structure of the image. It's basically the equivalent of drawing a picture of the human body as a stick figure.
@@ -40,13 +39,12 @@
 
 - date: May 2022
   title: Like glowing stars ... in the night sky
+  subtitle: Measuring the length of blood vessels in a dish
   tags:
     - msca
   image: /images/news/2022_02_feb_thumb.png
   image_alt: Skeletons of blood vessels?
   content: >
-    Measuring the length of blood vessels in a dish |
-
     You're probably wondering what I'm talking about right now. Maybe you remember that I'm trying to grow mini blood vessels in a dish and that I'm trying to use this method to figure out how cancer cells change the blood vessels? If you didn't remember, well now, you are hopefully all caught up.
 
     I now need a way to measure the little branches coming out of each blood vessel blob. But how exactly is that done? I've been writing a computer algorithm that can identify these branches automatically, tell me how long all the branches are, and how many there are. This algorithm uses a technique called "skeletonization", which is a process where we take all the pixels of the image and reduce them down to a single line of pixels that represent the general structure of the image. It's basically the equivalent of drawing a picture of the human body as a stick figure.
@@ -55,13 +53,12 @@
 
 - date: February 2022
   title: Upside-down catepillars ... or blood vessels?
+  subtitle: Imaging the growth of tumor blood vessels in real-time
   tags:
     - msca
   image: /images/news/2022_05_may_thumb.png
   image_alt: Glowing fish
   content: >
-    Imaging the growth of tumor blood vessels in real-time |
-
     Have you ever wondered how a tumor grows? It's pretty fascinating.
 
     Imagine that a tumor is a new city being built. It needs to connect itself to nearby cities through roads because those roads bring deliveries of food and other supplies that would allow the city to survive. In a tumor, these "roads" are actually blood vessels that bring oxygen and nutrients that tumor cells need to survive.  So what happens if those "roads" (or blood vessels) are blocked? Then the tumor would have a hard time surviving. It turns out that one really important way cancer researchers can stop tumors from growing is by cutting off their "roads".

@@ -1,21 +1,78 @@
-- date: 05/09/19
-  title: "Another great thing"
+- date: June 2021
+  title: In the beginning ... there war a sprout
   tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+    - msca
+  image: /images/news/2021_june_thumb.png
+  image_alt: Image of a spheroid sprout
+  content: >
+    Growing mini blood vessels in a cell culture dish |
+    In this part of the project, I am imaging the sprouting behavior of endothelial cells, which are the cells that make up the walls of blood vessels. During sprouting, a single cell protrudes out from the existing vessel and forms a new branch, like a bifurcation of a tree. This process can be seen in a cell culture dish simply by embedding a cluster of endothelial cells in a gel, adding some growth factors to promote branching, aaaaand waiting. Voila, mini blood vessels!
 
-- date: 03/09/19
-  title: "Something great"
+- date: August 2021
+  title: Laser tag ... with cancer cells!
   tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+    - msca
+  image: /images/news/2021_aug_thumb.png
+  image_alt: Fluorescent cancer cells
+  content: >
+    Making cancer cells fluorescent |
+
+    Imagine you are playing laser tag in the dark and you want to find your teammate. What do you look for? A fluorescent vest or some light to indicate where your teammate is, right?
+
+    In cancer biology, we can do the same thing to track cancer cells in a petri dish! Let's say we want to study the effect of a gene in cancer cells. To do this, we can insert bits of genetic code into the cancer cell that tells them to produce our gene of interest AND a fluroescent marker. Any cell that incorporates the added bits of genetic code into their DNA also becomes "tagged" with the fluorescent marker, which allows to track only the cancer cells that have our gene of interest. Amazing? I think so!
+
+    In the image above, all the green fluorescent cells are expressing our gene of interest called p53. Now we can track the green cells expressing the p53 gene and see what happens to them in a dish under different treatment conditions...
+
+- date: August 2021
+  title: Vessel skeletons ... huh?
+  tags:
+    - msca
+  image: /images/news/2022_01_jan_thumb.png
+  image_alt: Skeletons of blood vessels?
+  content: >
+    Measuring the length of blood vessels in a dish |
+
+    You're probably wondering what I'm talking about right now. Maybe you remember that I'm trying to grow mini blood vessels in a dish and that I'm trying to use this method to figure out how cancer cells change the blood vessels? If you didn't remember, well now, you are hopefully all caught up.
+
+    I now need a way to measure the little branches coming out of each blood vessel blob. But how exactly is that done? I've been writing a computer algorithm that can identify these branches automatically, tell me how long all the branches are, and how many there are. This algorithm uses a technique called "skeletonization", which is a process where we take all the pixels of the image and reduce them down to a single line of pixels that represent the general structure of the image. It's basically the equivalent of drawing a picture of the human body as a stick figure.
+
+    On the left side, you can see the original vessel blob with branches, and on the right side, the vessel skeleton!
+
+- date: May 2022
+  title: Like glowing stars ... in the night sky
+  tags:
+    - msca
+  image: /images/news/2022_02_feb_thumb.png
+  image_alt: Skeletons of blood vessels?
+  content: >
+    Measuring the length of blood vessels in a dish |
+
+    You're probably wondering what I'm talking about right now. Maybe you remember that I'm trying to grow mini blood vessels in a dish and that I'm trying to use this method to figure out how cancer cells change the blood vessels? If you didn't remember, well now, you are hopefully all caught up.
+
+    I now need a way to measure the little branches coming out of each blood vessel blob. But how exactly is that done? I've been writing a computer algorithm that can identify these branches automatically, tell me how long all the branches are, and how many there are. This algorithm uses a technique called "skeletonization", which is a process where we take all the pixels of the image and reduce them down to a single line of pixels that represent the general structure of the image. It's basically the equivalent of drawing a picture of the human body as a stick figure.
+
+    On the left side, you can see the original vessel blob with branches, and on the right side, the vessel skeleton!
+
+- date: February 2022
+  title: Upside-down catepillars ... or blood vessels?
+  tags:
+    - msca
+  image: /images/news/2022_05_may_thumb.png
+  image_alt: Glowing fish
+  content: >
+    Imaging the growth of tumor blood vessels in real-time |
+
+    Have you ever wondered how a tumor grows? It's pretty fascinating.
+
+    Imagine that a tumor is a new city being built. It needs to connect itself to nearby cities through roads because those roads bring deliveries of food and other supplies that would allow the city to survive. In a tumor, these "roads" are actually blood vessels that bring oxygen and nutrients that tumor cells need to survive.  So what happens if those "roads" (or blood vessels) are blocked? Then the tumor would have a hard time surviving. It turns out that one really important way cancer researchers can stop tumors from growing is by cutting off their "roads".
+
+    In my latest research, I am using fluorescent fish to study whether this new cancer drug stops blood vessels from growing in a tumor. In real-time! If you think that imaging this in real-time is as AMAZING as I think it is, you might be wondering, how is that possible? These fish have a genetic mutation that makes their blood vessels fluorescent, which means that the vessels "glow" when imaged using a special microscope. On the left side of the image above, you can see what blood vessels (shown in green) look like in an untreated tumor (shown in magenta). On the right side of the image above, you can see how the cancer drug appears to stop the blood vessels from growing! Looks promising, no? :)
+
+- date: July 2022
+  title: A trip down the ... vascular highway of tumors
+  tags:
+    - msca
+  image: /images/news/2022_05_may_thumb.png
+  image_alt: Vascular highway
+  content: >
+    Have you ever wondered how a tumor grows? It's pretty fascinating.

@@ -13,7 +13,8 @@ permalink: /news.html
             <div class="media-body">
             <h4 class="mt-0 mb-1">{{ article.title }}</h4>
             <p><small>{{ article.date }}</small></p>
-            {{ article.content }}
+            <img src="{{ article.image }}" class="img-fluid" alt="{{ article.image_alt }}">
+            <p>{{ article.content }}</p>
             </div>
         </li>
     {% endfor %}

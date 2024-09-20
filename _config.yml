@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Kannan Lab | Karolinska Institutet, Sweden
-email: pavitra.kannan@ki.se
+title: Kannan Lab | Sweden
+email: pk@sciencesylt.com
 description: > # this means to ignore newlines until "baseurl:"
-  Dr. Pavitra Kannan | Welcome to the Kannan Lab at the Karolinska Institute.
+  Dr. Pavitra Kannan | Welcome to the Kannan Lab.
 baseurl: ""
 url: ""
 

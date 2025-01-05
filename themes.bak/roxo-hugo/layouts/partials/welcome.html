@@ -1,0 +1,49 @@
+{{ with .Site.Params.welcome }}
+  <section class="site-welcome-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="site-welcome-wrapper">
+            <div class="site-welcome-company">
+              <h1>
+                {{ .Heading }}
+              </h1>
+            </div>
+            <div class="site-welcome-center-boundary">
+              <p></p>
+            </div>
+            <div class="site-welcome-description">
+              <p>
+                {{ .Description }}
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="site-welcome-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="site-welcome-wrapper">
+            <div class="site-welcome-description">
+              <p>
+                {{ .Description2 }}
+              </p>
+            </div>
+            <div class="site-welcome-center-boundary">
+              <p></p>
+            </div>
+            <div class="site-welcome-company">
+              <h1>
+                {{ .Box2 }}
+              </h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}

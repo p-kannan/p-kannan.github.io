@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/"
+baseURL       = "http://www.sciencesylt.com/"
 languageCode  = "en-us"
 title         = "Kannan Lab | Sweden"
 theme         = "roxo-hugo"
@@ -71,8 +71,8 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/2022_02_feb_thumb.png"
-    heading               = "We’re a Research Lab That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY sorta HARD"
+    heading               = "The Kannan Lab"
+    tagline               = ""
     primary_button        = "See Our Works"
     primary_button_url    = "blog"
     secondary_button      = "Connect with Us"
@@ -81,6 +81,12 @@ summarylength = 25
   [params.blog]
     read_more             = "read more"
 
+  [params.welcome]
+    enable = true
+    heading = "Welcome to the Kannan Lab"
+    description = "Cancer treatment resistance is one of the biggest challenges in improving outcomes for patients. We want to understand why some treatments fail and how we can make them work better to help patients. Our lab specifically studies how tumors and their support cells change and adapt during treatment."
+    box2 = "Strategy is supreme"
+    description2 = "We use a combination of advanced techniques, including imaging, 3D cellular models, and computational modeling, to study how tumors stop responding to treatment. If you are a student, researcher, or collaborator passionate about solving this challenge in cancer research, we would love for you to work with us!"
   [params.portfolio]
     enable    = true
     title     = "OUR RECENT WORKS"
@@ -109,7 +115,7 @@ summarylength = 25
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "About the lab"
           url  = "about"
         [[params.footer.sitemap.link]]
           name = "Projects"

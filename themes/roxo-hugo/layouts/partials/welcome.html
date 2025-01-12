@@ -37,9 +37,14 @@
               <p></p>
             </div>
             <div class="site-welcome-company">
-              <h1>
-                {{ .Box2 }}
-              </h1>
+              <div class="site-cta-buttons">
+                <a href="{{ .primary_button_url | absURL }}" class="btn btn-secondary">
+                  <span class="btn-area">
+                    <span data-text="{{ .primary_button }}">
+                      {{ .primary_button }}
+                    </span>
+                  </span>
+                </a>
             </div>
           </div>
         </div>

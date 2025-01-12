@@ -1,10 +1,12 @@
 enable  : true
 title   : The team that makes the difference.
-members  :
+alumni_title: Alumni and former students
+pis:
   - name        : Pavitra Kannan, Ph.D.
     designation : Principal Investigator
     image: images/team/missing-headshot.png
-
+    gscholar: https://scholar.google.co.uk/citations?user=fMTua_QAAAAJ&hl=en&oi=sra
+members  :
   - name: Qi Ying Neo
     designation: Ph.D. Student
     project: Improved drug delivery of targeted therapies
@@ -19,3 +21,44 @@ members  :
     designation: M.Sc. Student
     project: Crosstalk among tumor cells during treatment
     image: images/team/missing-headshot.png
+
+alumni:
+  - name: Marcin Paczkowski
+    designation: Ph.D. Student
+    project: mathematical models of cellular interactions during radiation
+  
+  - name: Abul Siddiky
+    designation: Ph.D. Student 
+    project: repurposing chemotherapy drugs to reduce hypoxia
+
+  - name: Molly Burke
+    designation: M.Sc. Student
+    project: deep learning models for vascular segmentation
+  - name: Lisa Eichhorn
+    designation: M.Sc. Student
+    project: molecular regulation of p53 signaling in vascular cells
+  - name: Suzon Fermé
+    designation: M.Sc. Student
+    project: image analysis of p53 activity in tissues 
+  - name: Omayma Al-Radi
+    designation: M.Sc. Student
+    project: efficacy of p53 activators in vessels
+  - name: Paula Lysekär
+    designation: M.Sc. Student
+    project: imaging p53 responses to hypoxia
+  - name: Ada Lerma Clavero
+    designation: M.Sc. Student
+    project: efficacy of p53 activators in hypoxia 
+
+  - name: Mohamed Ibrahim
+    project: image analysis methods for vessel segmentation
+    designation: B.Sc. Student
+  - name: Paula Lysekär
+    project: imaging p53 responses to hypoxia
+    designation: B.Sc. Student
+  - name: Pepijn Rakers
+    project: visualizing dynamics of p53 mutations in cells
+    designation: B.Sc. Student
+  - name: Ada Lerma Clavero
+    project: efficacy of p53 activators in hypoxia 
+    designation: B.Sc. Student

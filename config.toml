@@ -16,8 +16,8 @@ summarylength = 25
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Portfolio"
-    url     = "portfolio"
+    name    = "Research"
+    url     = "research"
     weight  = 3
   [[menu.nav]]
     name    = "Blog"
@@ -88,13 +88,20 @@ summarylength = 25
     box2 = "Strategy is supreme"
     description2 = "We use a combination of advanced techniques, including imaging, 3D cellular models, and computational modeling, to study how tumors stop responding to treatment. If you are a student, researcher, or collaborator passionate about solving this challenge in cancer research, we would love for you to work with us!"
   [params.portfolio]
-    enable    = true
+    enable    = false 
     title     = "OUR RECENT WORKS"
     subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
     view_project = "view project"
     more_works = "MORE WORKS"
     scroll_down = "scroll down"
 
+  [params.research]
+    enable    = true 
+    title     = "OUR RECENT WORKS"
+    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    view_project = "view project"
+    more_works = "MORE WORKS"
+    scroll_down = "scroll down"
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
@@ -102,7 +109,7 @@ summarylength = 25
     primary_button      = "Submit Query"
     primary_button_url  = "contact"
     secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
+    secondary_button_url = "research"
 
   [params.footer]
     params.footer.qr_print = false

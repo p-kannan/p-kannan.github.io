@@ -1,0 +1,17 @@
+enable: true
+title: News
+items:
+  - date: Nov 2024
+    content: Welcome to the lab, Aliakbar Bhaktiari.
+  - date: Aug 2024
+    content: Master student Molly Burke successfully defends her thesis. Congratulations!
+  - date: June 2024
+    content: Master student Lisa Eichhorn successfully defends her thesis. Congratulations!
+  - date: July 2024
+    content: Welcome to the lab, Sania Kheder.
+  - date: May 2024
+    content: Our latest publication on reactivating p53 together with immunotherapy is now out in iScience.
+  - date: Jan 2024
+    content: Welcome to the lab, Lisa Eichhorn and Molly Burke. 
+  - date: March 2023
+    content: A huge congratulations to former member, Ada Lerma, on her first-author publication in Scientific Reports! Ada led this work, which describes the efficacy of p53 reactivators in hypoxia. 
